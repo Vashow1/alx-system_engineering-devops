@@ -1,1 +1,1 @@
-This script print the current working directory
+This folder contains files required to finish assignment on shell
