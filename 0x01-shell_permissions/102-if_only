@@ -1,4 +1,2 @@
 #!/bin/bash
-
-
-su -c 'chown -R vincent:staff .'
+su -c 'chown --from=guillaume betty hello'
