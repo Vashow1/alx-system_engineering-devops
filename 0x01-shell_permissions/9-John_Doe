@@ -1,0 +1,2 @@
+i#!/bin/bash
+su -c 'chmod 753 hello'
