@@ -1,2 +1,2 @@
 #!/bin/bash
-su -c 'chmod -R u+X,g+X,o+X /*'
+su -c 'chmod -R u+X,g+X,o+X /'
