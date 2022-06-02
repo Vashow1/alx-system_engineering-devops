@@ -1,2 +1,2 @@
 #!/bin/bash
-su -c 'chmod u+x, g+x, o+r hello'
+su -c 'chmod ug+x, o+r hello'
